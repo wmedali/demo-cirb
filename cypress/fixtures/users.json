@@ -1,0 +1,12 @@
+[
+  {
+    "username": "dsteveoo",
+    "password": "fdsfgs",
+    "expectedResult": "failure"
+  },
+  {
+    "username": "dstevens",
+    "password": "fdsfgs",
+    "expectedResult": "failure"
+  }
+]
